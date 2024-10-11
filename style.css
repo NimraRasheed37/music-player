@@ -97,7 +97,6 @@ h2 {
 audio {
     width: 100%;
     margin-top: 40px;
-    height: auto;
 }
 .btns {
     margin-top: 50px;
@@ -198,7 +197,7 @@ button i {
     audio{
         width: 300px;
         padding: 10px;
-        height: auto;
+        margin: auto;
     }
     .btns{
         margin-top: 1em;
